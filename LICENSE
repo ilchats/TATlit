@@ -1,0 +1,32 @@
+TATlit — licensing
+==================
+
+1. Model weights, tokenizer, and code
+--------------------------------------
+The model weights (hosted at https://huggingface.co/ilchats/TATlit), the
+SentencePiece tokenizer in tokenizer/, and all source code in this repository
+are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+International License (CC BY-NC-SA 4.0).
+
+  Human-readable summary: https://creativecommons.org/licenses/by-nc-sa/4.0/
+  Full legal code:        https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+  You are free to share and adapt this material for non-commercial purposes,
+  provided you give appropriate credit and distribute your contributions under
+  the same license.
+
+2. TatBLiMP benchmark
+---------------------
+The TatBLiMP benchmark is not included in this repository. It is distributed
+separately at https://github.com/ilchats/TatBLiMP under the terms given there.
+
+3. Training corpus
+------------------
+The training corpus is not released. It is withheld on stewardship grounds for a
+minoritized language's literary heritage. A full datasheet with per-document
+provenance is available on reasonable request.
+
+Attribution
+-----------
+Ilshat Saetov, Dmitry Gaynullin. 2026. Thanks to the Siblings: Bootstrapping a
+Native Tatar Language Model from a Cyrillic Qypchaq Pool.
