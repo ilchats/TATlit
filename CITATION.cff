@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use TATlit, please cite it as below."
 type: software
-title: TATlit
+title: TATlit — a native literary Tatar base language model
 abstract: >-
   TATlit is a 478M-parameter, from-scratch base language model for literary
   Tatar (ISO 639-3 tat), a Qypchaq Turkic language written in Cyrillic. It is
