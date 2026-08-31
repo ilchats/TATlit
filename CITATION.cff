@@ -29,14 +29,5 @@ keywords:
   - from-scratch pretraining
 identifiers:
   - type: doi
-    value: "10.57967/hf/9694"
-    description: Hugging Face DOI for the model weights
-preferred-citation:
-  type: generic
-  title: "Thanks to the Siblings: Bootstrapping a Native Tatar Language Model from a Cyrillic Qypchaq Pool"
-  authors:
-    - family-names: Saetov
-      given-names: Ilshat
-    - family-names: Gaynullin
-      given-names: Dmitry
-  year: 2026
+    value: "10.5281/zenodo.22212737"
+    description: Zenodo DOI for the model
