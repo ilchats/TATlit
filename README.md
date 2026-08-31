@@ -13,7 +13,7 @@ tags:
 - base-model
 ---
 
-[![DOI](https://zenodo.org/badge/1311176878.svg)](https://doi.org/10.5281/zenodo.22212737)
+[![DOI](https://zenodo.org/badge/1311176878.svg)](https://doi.org/10.5281/zenodo.22212736)
 
 # TATlit — a native literary Tatar base language model
 
