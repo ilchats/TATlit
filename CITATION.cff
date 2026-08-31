@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use TATlit, please cite it as below."
+type: software
+title: TATlit
+abstract: >-
+  TATlit is a 478M-parameter, from-scratch base language model for literary
+  Tatar (ISO 639-3 tat), a Qypchaq Turkic language written in Cyrillic. It is
+  trained without adapting any English- or Russian-dominant base, so it produces
+  native Tatar morphosyntax by default rather than acting as a translation layer
+  over a dominant language. This is a base model, not instruction-tuned.
+authors:
+  - family-names: Saetov
+    given-names: Ilshat
+    orcid: "https://orcid.org/0000-0002-6137-655X"
+    affiliation: École des hautes études en sciences sociales
+  - family-names: Gaynullin
+    given-names: Dmitry
+version: "1.0"
+date-released: "2026-08-31"
+license: CC-BY-NC-SA-4.0
+repository-code: "https://github.com/ilchats/TATlit"
+url: "https://huggingface.co/ilchats/TATlit"
+keywords:
+  - Tatar
+  - Turkic
+  - Qypchaq
+  - language model
+  - low-resource languages
+  - from-scratch pretraining
+identifiers:
+  - type: doi
+    value: "10.57967/hf/9694"
+    description: Hugging Face DOI for the model weights
+preferred-citation:
+  type: generic
+  title: "Thanks to the Siblings: Bootstrapping a Native Tatar Language Model from a Cyrillic Qypchaq Pool"
+  authors:
+    - family-names: Saetov
+      given-names: Ilshat
+    - family-names: Gaynullin
+      given-names: Dmitry
+  year: 2026
