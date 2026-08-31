@@ -13,6 +13,8 @@ tags:
 - base-model
 ---
 
+[![DOI](https://zenodo.org/badge/1311176878.svg)](https://doi.org/10.5281/zenodo.22212737)
+
 # TATlit — a native literary Tatar base language model
 
 TATlit is a 478M-parameter, from-scratch base language model for literary Tatar (ISO 639-3 `tat`), a Qypchaq Turkic language written in Cyrillic. It is trained without adapting any English- or Russian-dominant base, so that it produces native Tatar morphosyntax by default rather than acting as a translation layer over a dominant language. This is a base model, not instruction-tuned.
