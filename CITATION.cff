@@ -29,5 +29,5 @@ keywords:
   - from-scratch pretraining
 identifiers:
   - type: doi
-    value: "10.5281/zenodo.22212737"
+    value: "10.5281/zenodo.22212736"
     description: Zenodo DOI for the model
